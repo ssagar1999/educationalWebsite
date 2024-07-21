@@ -120,10 +120,17 @@ nav .fa {
 /* course */
 
 .course {
-  width: 80%;
+/*   width: 80%;
+  margin: auto;
+  text-align: center;
+  padding-top: 100px; */
+
+  width: 92%;
   margin: auto;
   text-align: center;
   padding-top: 100px;
+  background: #e4e1e1;
+  padding: 0 5px;
 }
 h1 {
   font-size: 36px;
